@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F31EC5CF-D38D-45E4-A500-87916AE4E2FF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sdsdsd</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AD83F44DD96DD6F8D21F6E0DD4D510A34E899979</key>
+		<string>https://github.com/wintersweet/MyselfProject.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sdsdsd.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AD83F44DD96DD6F8D21F6E0DD4D510A34E899979</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wintersweet/MyselfProject.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AD83F44DD96DD6F8D21F6E0DD4D510A34E899979</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD83F44DD96DD6F8D21F6E0DD4D510A34E899979</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyselfProject</string>
+		</dict>
+	</array>
+</dict>
+</plist>

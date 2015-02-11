@@ -11,6 +11,8 @@ import UIKit
 class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate {
     
     var tabview:UITableView?
+    
+    
     var search:UISearchBar?
 
     override func viewDidLoad() {
@@ -40,6 +42,8 @@ class ViewController: UIViewController,UITableViewDataSource,UITableViewDelegate
         btn.setImage(UIImage(named: "1"), forState:UIControlState.Normal)
         btn.addTarget(self, action: "BntClicked", forControlEvents: UIControlEvents.TouchUpInside)
         self.view.addSubview(btn)
+       
+        
         
         
         
